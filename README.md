@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img style="width: 250px;" src="https://github.com/tph7897/tph7897/assets/132332533/25e40431-4b69-4916-a316-d8877adc8ce6" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tph7897&show_icons=true&theme=radical)
 <!--
 **tph7897/tph7897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
